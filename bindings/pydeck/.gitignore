@@ -155,3 +155,6 @@ $RECYCLE.BIN/
 **/_build
 **/pydeck/frontend_semver.py
 **/examples/*.html
+*.html
+**/docs/embeds/*.py
+**/docs/gallery/*.rst

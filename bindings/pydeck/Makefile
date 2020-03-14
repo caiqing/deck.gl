@@ -28,6 +28,7 @@ example:
 docs:
 	cd docs; \
 	$(MAKE) html
+	$(MAKE) html-embeds
 	
 publish-conda:	
 	echo "NOTE pydeck does not yet publish to conda-forge. Awaiting #4202."
